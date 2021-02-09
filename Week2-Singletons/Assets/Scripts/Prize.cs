@@ -19,11 +19,11 @@ public class Prize : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D other)
     {
-        transform.position = new Vector2(
+        transform.position = new Vector2( //teleport to a random location
             Random.Range(-5,5),
             Random.Range(-5,5));
 
-        GameManager.instance.score++;
+        GameManager.instance.score++; //increase the player's score using the Singleton!
         
         print("Score: " + GameManager.instance.score);
     }

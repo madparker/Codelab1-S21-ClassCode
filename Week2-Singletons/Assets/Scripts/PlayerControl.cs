@@ -4,22 +4,23 @@ using UnityEngine;
 
 public class PlayerControl : MonoBehaviour
 {
-    public float forceAmount = 5;
+    public float forceAmount = 5;  //public var for force amount
     
-    Rigidbody2D rb2D;
+    Rigidbody2D rb2D; //var for the Rigidbody2D
 
-    public static PlayerControl instance;
+    //static variable means the value is the same for all the objects of this class type and the class itself
+    public static PlayerControl instance; //this static var will hold the Singleton
 
     void Awake()
     {
-        if (instance == null)
+        if (instance == null)  //instance hasn't been set yet
         {
-            DontDestroyOnLoad(gameObject);
-            instance = this;
+            DontDestroyOnLoad(gameObject);  //Dont Destroy this object when you load a new scene
+            instance = this; //set instance to this object
         }
-        else
+        else //if the instance is already set to an object
         {
-            Destroy(gameObject);
+            Destroy(gameObject);  //destroy this new object, so there is only ever one
         }
     }
 
@@ -27,30 +28,30 @@ public class PlayerControl : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        rb2D = GetComponent<Rigidbody2D>();
+        rb2D = GetComponent<Rigidbody2D>();  //get the Rigidbody2D  off of this gameObject
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(KeyCode.W))
+        if (Input.GetKey(KeyCode.W)) //if W is pressed
         {
-            rb2D.AddForce(Vector2.up * forceAmount);
+            rb2D.AddForce(Vector2.up * forceAmount); //apply to the up mult by the "force" var
         }
 
-        if (Input.GetKey(KeyCode.S))
+        if (Input.GetKey(KeyCode.S)) //if S is pressed
         {
-            rb2D.AddForce(Vector2.down * forceAmount);
+            rb2D.AddForce(Vector2.down * forceAmount); //apply to the up mult by the "force" var
         }
 
-        if (Input.GetKey(KeyCode.A))
+        if (Input.GetKey(KeyCode.A)) //if A is pressed
         {
-            rb2D.AddForce(Vector2.left * forceAmount);
+            rb2D.AddForce(Vector2.left * forceAmount); //apply to the up mult by the "force" var
         }
 
-        if (Input.GetKey(KeyCode.D))
+        if (Input.GetKey(KeyCode.D)) //if D is pressed
         {
-            rb2D.AddForce(Vector2.right * forceAmount);
+            rb2D.AddForce(Vector2.right * forceAmount); //apply to the up mult by the "force" var
         }
         
         
