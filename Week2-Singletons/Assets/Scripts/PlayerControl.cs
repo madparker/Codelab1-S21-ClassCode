@@ -8,6 +8,22 @@ public class PlayerControl : MonoBehaviour
     
     Rigidbody2D rb2D;
 
+    public static PlayerControl instance;
+
+    void Awake()
+    {
+        if (instance == null)
+        {
+            DontDestroyOnLoad(gameObject);
+            instance = this;
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -21,5 +37,22 @@ public class PlayerControl : MonoBehaviour
         {
             rb2D.AddForce(Vector2.up * forceAmount);
         }
+
+        if (Input.GetKey(KeyCode.S))
+        {
+            rb2D.AddForce(Vector2.down * forceAmount);
+        }
+
+        if (Input.GetKey(KeyCode.A))
+        {
+            rb2D.AddForce(Vector2.left * forceAmount);
+        }
+
+        if (Input.GetKey(KeyCode.D))
+        {
+            rb2D.AddForce(Vector2.right * forceAmount);
+        }
+        
+        
     }
 }

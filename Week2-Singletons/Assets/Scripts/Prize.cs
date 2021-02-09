@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Prize : MonoBehaviour
 {
@@ -14,5 +15,16 @@ public class Prize : MonoBehaviour
     void Update()
     {
         
+    }
+
+    void OnCollisionEnter2D(Collision2D other)
+    {
+        transform.position = new Vector2(
+            Random.Range(-5,5),
+            Random.Range(-5,5));
+
+        GameManager.instance.score++;
+        
+        print("Score: " + GameManager.instance.score);
     }
 }
