@@ -25,8 +25,8 @@ public class Prize : MonoBehaviour
             Random.Range(-5,5),
             Random.Range(-5,5));
 
-        GameManager.instance.score++; //increase the player's score using the Singleton!
+        GameManager.instance.Score++; //increase the player's score using the Singleton!
         
-        print("Score: " + GameManager.instance.score);
+        print("Score: " + GameManager.instance.Score);
     }
 }
