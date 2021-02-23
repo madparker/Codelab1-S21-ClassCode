@@ -11,7 +11,22 @@ public class GameManager : MonoBehaviour
     public Text timerText;
     
     float timer = 0;
-    
+
+    public GameManager instance;
+
+    void Awake()
+    {
+        if (instance == null)
+        {
+            instance = this;
+            DontDestroyOnLoad(gameObject);
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
+
     // Start is called before the first frame update
     void Start()
     {
