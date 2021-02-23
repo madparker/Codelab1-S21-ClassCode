@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf675e08-8ca2-47ef-aa1b-4a3c6cde8ddb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Week3-SavingData/.idea/.idea.Week3-SavingData/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week3-SavingData/.idea/.idea.Week3-SavingData/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/WhackADot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/WhackADot.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,36 +13,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/WhackADot.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="552">
+              <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
               <folding>
-                <marker date="1614038328815" expanded="true" signature="6:78" ph="..." />
-                <marker date="1614038328815" expanded="true" signature="118:503" ph="{...}" />
-                <marker date="1614038328815" expanded="true" signature="190:211" ph="{...}" />
-                <marker date="1614038328815" expanded="true" signature="269:290" ph="{...}" />
-                <marker date="1614038328815" expanded="true" signature="314:501" ph="{...}" />
+                <marker date="1614041333535" expanded="true" signature="6:78" ph="..." />
+                <marker date="1614041333535" expanded="true" signature="118:542" ph="{...}" />
+                <marker date="1614041333535" expanded="true" signature="190:211" ph="{...}" />
+                <marker date="1614041333535" expanded="true" signature="269:290" ph="{...}" />
+                <marker date="1614041333535" expanded="true" signature="314:540" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="618">
-              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+            <state relative-caret-position="288">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
               <folding>
-                <marker date="1614040957624" expanded="false" signature="6:78" ph="..." />
-                <marker date="1614040957624" expanded="true" signature="177:939" ph="{...}" />
-                <marker date="1614040957624" expanded="true" signature="317:517" ph="{...}" />
-                <marker date="1614040957624" expanded="true" signature="353:445" ph="{...}" />
-                <marker date="1614040957624" expanded="true" signature="458:511" ph="{...}" />
-                <marker date="1614040957624" expanded="true" signature="588:619" ph="{...}" />
-                <marker date="1614040957624" expanded="true" signature="677:937" ph="{...}" />
-                <marker date="1614040957624" expanded="true" signature="872:931" ph="{...}" />
+                <marker date="1614041321934" expanded="false" signature="6:78" ph="..." />
+                <marker date="1614041321934" expanded="true" signature="177:1090" ph="{...}" />
+                <marker date="1614041321934" expanded="true" signature="307:409" ph="{...}" />
+                <marker date="1614041321934" expanded="true" signature="355:403" ph="{...}" />
+                <marker date="1614041321934" expanded="true" signature="468:668" ph="{...}" />
+                <marker date="1614041321934" expanded="true" signature="504:596" ph="{...}" />
+                <marker date="1614041321934" expanded="true" signature="609:662" ph="{...}" />
+                <marker date="1614041321934" expanded="true" signature="739:770" ph="{...}" />
+                <marker date="1614041321934" expanded="true" signature="828:1088" ph="{...}" />
+                <marker date="1614041321934" expanded="true" signature="1023:1082" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -59,8 +62,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/WhackADot.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WhackADot.cs" />
       </list>
     </option>
   </component>
@@ -131,12 +134,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614037362812</updated>
-      <workItem from="1614037367064" duration="3547000" />
+      <workItem from="1614037367064" duration="3922000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3547000" />
+    <option name="totallyTimeSpent" value="3922000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -148,7 +151,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="46" y="29" width="1684" height="965" extended-state="0" />
+    <frame x="128" y="25" width="1684" height="965" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -195,33 +198,35 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/WhackADot.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="288">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
           <folding>
-            <marker date="1614038328815" expanded="true" signature="6:78" ph="..." />
-            <marker date="1614038328815" expanded="true" signature="118:503" ph="{...}" />
-            <marker date="1614038328815" expanded="true" signature="190:211" ph="{...}" />
-            <marker date="1614038328815" expanded="true" signature="269:290" ph="{...}" />
-            <marker date="1614038328815" expanded="true" signature="314:501" ph="{...}" />
+            <marker date="1614041321934" expanded="false" signature="6:78" ph="..." />
+            <marker date="1614041321934" expanded="true" signature="177:1090" ph="{...}" />
+            <marker date="1614041321934" expanded="true" signature="307:409" ph="{...}" />
+            <marker date="1614041321934" expanded="true" signature="355:403" ph="{...}" />
+            <marker date="1614041321934" expanded="true" signature="468:668" ph="{...}" />
+            <marker date="1614041321934" expanded="true" signature="504:596" ph="{...}" />
+            <marker date="1614041321934" expanded="true" signature="609:662" ph="{...}" />
+            <marker date="1614041321934" expanded="true" signature="739:770" ph="{...}" />
+            <marker date="1614041321934" expanded="true" signature="828:1088" ph="{...}" />
+            <marker date="1614041321934" expanded="true" signature="1023:1082" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/WhackADot.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="618">
-          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        <state relative-caret-position="552">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
           <folding>
-            <marker date="1614040957624" expanded="false" signature="6:78" ph="..." />
-            <marker date="1614040957624" expanded="true" signature="177:939" ph="{...}" />
-            <marker date="1614040957624" expanded="true" signature="317:517" ph="{...}" />
-            <marker date="1614040957624" expanded="true" signature="353:445" ph="{...}" />
-            <marker date="1614040957624" expanded="true" signature="458:511" ph="{...}" />
-            <marker date="1614040957624" expanded="true" signature="588:619" ph="{...}" />
-            <marker date="1614040957624" expanded="true" signature="677:937" ph="{...}" />
-            <marker date="1614040957624" expanded="true" signature="872:931" ph="{...}" />
+            <marker date="1614041333535" expanded="true" signature="6:78" ph="..." />
+            <marker date="1614041333535" expanded="true" signature="118:542" ph="{...}" />
+            <marker date="1614041333535" expanded="true" signature="190:211" ph="{...}" />
+            <marker date="1614041333535" expanded="true" signature="269:290" ph="{...}" />
+            <marker date="1614041333535" expanded="true" signature="314:540" ph="{...}" />
           </folding>
         </state>
       </provider>

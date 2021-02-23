@@ -24,5 +24,7 @@ public class WhackADot : MonoBehaviour
             new Vector2(
                 Random.Range(-6f, 6f),
                 Random.Range(-4f, 4f));
+
+        GameManager.instance.Score++;
     }
 }

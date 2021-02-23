@@ -11,8 +11,19 @@ public class GameManager : MonoBehaviour
     public Text timerText;
     
     float timer = 0;
+    
+    int score;
 
-    public GameManager instance;
+    public int Score
+    {
+        get { return score; }
+        set
+        {
+            score = value; 
+        }
+    }
+
+    public static GameManager instance;
 
     void Awake()
     {
