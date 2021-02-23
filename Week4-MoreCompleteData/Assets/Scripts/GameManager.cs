@@ -23,7 +23,11 @@ public class GameManager : MonoBehaviour
         }
     }
 
+    List<int> highScores;
+    
     public static GameManager instance;
+
+    bool isGame = true;
 
     void Awake()
     {
@@ -49,13 +53,49 @@ public class GameManager : MonoBehaviour
     {
         timer += Time.deltaTime;
 
-        timerText.text = "Time: " + (int)(gameTime - timer + 1);
-        
+        if (!isGame) //if we're not in the game, display high scores
+        {
+            string highScoreString = "High Scores\n\n";
+
+            for (var i = 0; i < highScores.Count; i++)
+            {
+                highScoreString += highScores[i] + "\n";
+            }
+
+            timerText.text = highScoreString;
+        }
+        else //if we are in the game, display timer
+        {
+            timerText.text = "Time: " + (int) (gameTime - timer + 1);
+        }
+
         Debug.Log("Time: " + timer);
 
-        if (gameTime < timer) //Time is up
+        if (gameTime < timer && isGame) //Time is up and in the game scene
         {
             SceneManager.LoadScene(1);
+            isGame = false;
+            UpdateHighScores();
+        }
+    }
+
+    void UpdateHighScores()
+    {
+        if (highScores == null) //TODO populate with file IO
+        {
+            highScores = new List<int>();
+            
+            highScores.Add(2);
+            highScores.Add(1);
+        }
+
+        for (var i = 0; i < highScores.Count; i++)
+        {
+            if (score > highScores[i])
+            {
+                highScores.Insert(i, score);
+                break;
+            }
         }
     }
 }
