@@ -1,5 +1,7 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
+using System.IO;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -29,6 +31,9 @@ public class GameManager : MonoBehaviour
 
     bool isGame = true;
 
+    const string FILE_HIGH_SCORES = "/highScores.txt";
+    string FILE_PATH_HIGH_SCORE;
+    
     void Awake()
     {
         if (instance == null)
@@ -46,6 +51,7 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         timer = 0;
+        FILE_PATH_HIGH_SCORE = Application.dataPath + FILE_HIGH_SCORES;
     }
 
     // Update is called once per frame
@@ -69,7 +75,7 @@ public class GameManager : MonoBehaviour
             timerText.text = "Time: " + (int) (gameTime - timer + 1);
         }
 
-        Debug.Log("Time: " + timer);
+        //Debug.Log("Time: " + timer);
 
         if (gameTime < timer && isGame) //Time is up and in the game scene
         {
@@ -81,12 +87,20 @@ public class GameManager : MonoBehaviour
 
     void UpdateHighScores()
     {
-        if (highScores == null) //TODO populate with file IO
+        if (highScores == null) //if we don't have the high scores yet
         {
             highScores = new List<int>();
+
+            string fileContents = File.ReadAllText(FILE_PATH_HIGH_SCORE);
+
+            string[] fileScores = fileContents.Split(',');
             
-            highScores.Add(2);
-            highScores.Add(1);
+            print(fileScores.Length);
+
+            for (var i = 0; i < fileScores.Length - 1; i++)
+            {
+                highScores.Add(Int32.Parse(fileScores[i]));
+            }
         }
 
         for (var i = 0; i < highScores.Count; i++)
@@ -97,5 +111,14 @@ public class GameManager : MonoBehaviour
                 break;
             }
         }
+
+        string saveHighScoreString = "";
+
+        for (var i = 0; i < highScores.Count; i++)
+        {
+            saveHighScoreString += highScores[i] + ",";
+        }
+
+        File.WriteAllText(FILE_PATH_HIGH_SCORE, saveHighScoreString);
     }
 }
