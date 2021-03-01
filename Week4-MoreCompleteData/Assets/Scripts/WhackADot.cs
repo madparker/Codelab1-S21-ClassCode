@@ -16,15 +16,19 @@ public class WhackADot : MonoBehaviour
         
     }
 
+    //Called when the Mouse Button is down and you're over an object
+    //using Unity collider
     void OnMouseDown()
     {
         Debug.Log("Clicked on Dot!!!");
 
+        //move the dot to a new random location
         transform.position = 
             new Vector2(
                 Random.Range(-6f, 6f),
                 Random.Range(-4f, 4f));
 
+        //increase the Score property in the GameManager Singleton by 1
         GameManager.instance.Score++;
     }
 }

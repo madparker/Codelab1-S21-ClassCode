@@ -377,7 +377,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2e856bbf62eb149d68da43c6ff1fbde2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameTime: 2
+  gameTime: 5
   timerText: {fileID: 1674055109}
 --- !u!4 &1812504952
 Transform:
