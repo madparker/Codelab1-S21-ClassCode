@@ -18,8 +18,10 @@ public class GoalScript : MonoBehaviour
         
     }
 
-    void OnTriggerEnter2D(Collider2D other)
+    void OnTriggerEnter2D(Collider2D other) //if something enters the trigger
     {
+        //Increase the Score Property in the ASCIILevelLoader
+        //that we reference through the GameManager Singleton
         GameManager.instance.GetComponent<ASCIILevelLoader>().CurrentLevel++;
     }
 }

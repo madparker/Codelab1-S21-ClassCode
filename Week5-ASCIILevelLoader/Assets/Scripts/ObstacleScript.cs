@@ -17,10 +17,12 @@ public class ObstacleScript : MonoBehaviour
         
     }
 
-    void OnCollisionEnter2D(Collision2D other)
+    void OnCollisionEnter2D(Collision2D other) //if the obstacle gets hit
     {
-        if (other.gameObject.name.Contains("Player"))
+        if (other.gameObject.name.Contains("Player")) //if the player hit us
         {
+            //Call "ResetPlayer" in the ASCIILevelLoader that we reference through
+            //the GameManager Singleton
             GameManager.instance.GetComponent<ASCIILevelLoader>().ResetPlayer();
         }
     }
