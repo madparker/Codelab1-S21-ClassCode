@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -14,5 +15,13 @@ public class ObstacleScript : MonoBehaviour
     void Update()
     {
         
+    }
+
+    void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.name.Contains("Player"))
+        {
+            GameManager.instance.GetComponent<ASCIILevelLoader>().ResetPlayer();
+        }
     }
 }

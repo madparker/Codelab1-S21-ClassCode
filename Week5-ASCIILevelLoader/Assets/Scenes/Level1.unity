@@ -375,6 +375,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6294865890677110799, guid: fe56809a689f34897946f029ce7cdb91,
         type: 3}
+      propertyPath: goal
+      value: 
+      objectReference: {fileID: 715045482815924749, guid: f36083eb121ca4a34b8d89427cb66009,
+        type: 3}
+    - target: {fileID: 6294865890677110799, guid: fe56809a689f34897946f029ce7cdb91,
+        type: 3}
       propertyPath: wall
       value: 
       objectReference: {fileID: 6635122519656044758, guid: c180816b9d2ac4fb0a25c8f3de597a1a,
@@ -395,6 +401,12 @@ PrefabInstance:
       propertyPath: yOffset
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 6294865890677110799, guid: fe56809a689f34897946f029ce7cdb91,
+        type: 3}
+      propertyPath: obstacle
+      value: 
+      objectReference: {fileID: 665140706184278290, guid: 9bacc4b8f43d346269f07936997f1133,
+        type: 3}
     - target: {fileID: 6294865890677110799, guid: fe56809a689f34897946f029ce7cdb91,
         type: 3}
       propertyPath: file_name
