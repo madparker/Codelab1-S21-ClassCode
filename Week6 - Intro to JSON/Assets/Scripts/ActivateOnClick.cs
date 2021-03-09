@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class ActivateOnClick : MonoBehaviour
 {
-    Rigidbody rigidbody;
+    Rigidbody rigidbody; //var for rigidbody
     
     // Start is called before the first frame update
     void Start()
     {
-        rigidbody = GetComponent<Rigidbody>();
-        rigidbody.isKinematic = true;
+        rigidbody = GetComponent<Rigidbody>(); //get the rigidbody component
+        rigidbody.isKinematic = true; //turn physics off of this rigidbody component
     }
 
     // Update is called once per frame
@@ -19,8 +19,8 @@ public class ActivateOnClick : MonoBehaviour
         
     }
 
-    void OnMouseDown()
+    void OnMouseDown() //when clicked on
     {
-        rigidbody.isKinematic = false;
+        rigidbody.isKinematic = false; //turn physics on
     }
 }

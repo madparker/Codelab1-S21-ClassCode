@@ -16,8 +16,8 @@ public class PrizeScript : MonoBehaviour
         
     }
 
-    void OnTriggerExit(Collider other)
+    void OnTriggerExit(Collider other) //when an object leaves this trigger
     {
-        Destroy(gameObject);
+        Destroy(gameObject); //destroy this gameObject
     }
 }

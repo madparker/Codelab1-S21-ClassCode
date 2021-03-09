@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68ad0e8a-394e-4a8b-9ab4-95d662c1c7c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Week6 - Intro to JSON/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Week6 - Intro to JSON/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ActivateOnClick.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ActivateOnClick.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MovableObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MovableObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PrizeScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PrizeScript.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,43 +17,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/ActivateOnClick.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+            <state relative-caret-position="523">
+              <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
               <folding>
-                <marker date="1615249341930" expanded="false" signature="6:78" ph="..." />
-                <marker date="1615249341930" expanded="true" signature="124:479" ph="{...}" />
-                <marker date="1615249341930" expanded="true" signature="226:323" ph="{...}" />
-                <marker date="1615249341930" expanded="true" signature="381:402" ph="{...}" />
-                <marker date="1615249341930" expanded="true" signature="426:477" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovableObject.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-              <folding>
-                <marker date="1615253666581" expanded="false" signature="6:95" ph="..." />
-                <marker date="1615253666581" expanded="true" signature="139:1207" ph="{...}" />
-                <marker date="1615253666581" expanded="true" signature="238:551" ph="{...}" />
-                <marker date="1615253666581" expanded="true" signature="344:545" ph="{...}" />
-                <marker date="1615253666581" expanded="true" signature="609:630" ph="{...}" />
-                <marker date="1615253666581" expanded="true" signature="654:720" ph="{...}" />
-                <marker date="1615253666581" expanded="true" signature="750:935" ph="{...}" />
-                <marker date="1615253666581" expanded="true" signature="972:1205" ph="{...}" />
+                <marker date="1615300528718" expanded="false" signature="6:78" ph="..." />
+                <marker date="1615300528718" expanded="true" signature="124:612" ph="{...}" />
+                <marker date="1615300528718" expanded="true" signature="246:420" ph="{...}" />
+                <marker date="1615300528718" expanded="true" signature="478:499" ph="{...}" />
+                <marker date="1615300528718" expanded="true" signature="541:610" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/MoveCube0.json">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovableObject.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            <state relative-caret-position="555">
+              <caret line="62" column="92" selection-start-line="62" selection-start-column="92" selection-end-line="62" selection-end-column="92" />
+              <folding>
+                <marker date="1615300809436" expanded="false" signature="6:95" ph="..." />
+                <marker date="1615300809436" expanded="true" signature="139:2074" ph="{...}" />
+                <marker date="1615300809436" expanded="true" signature="258:828" ph="{...}" />
+                <marker date="1615300809436" expanded="true" signature="462:822" ph="{...}" />
+                <marker date="1615300809436" expanded="true" signature="886:907" ph="{...}" />
+                <marker date="1615300809436" expanded="true" signature="975:1098" ph="{...}" />
+                <marker date="1615300809436" expanded="true" signature="1159:1535" ph="{...}" />
+                <marker date="1615300809436" expanded="true" signature="1621:2072" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -61,14 +52,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PrizeScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+            <state relative-caret-position="466">
+              <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
               <folding>
-                <marker date="1615250390445" expanded="false" signature="6:78" ph="..." />
-                <marker date="1615250390445" expanded="true" signature="120:375" ph="{...}" />
-                <marker date="1615250390445" expanded="true" signature="192:213" ph="{...}" />
-                <marker date="1615250390445" expanded="true" signature="271:292" ph="{...}" />
-                <marker date="1615250390445" expanded="true" signature="332:373" ph="{...}" />
+                <marker date="1615300557713" expanded="false" signature="6:78" ph="..." />
+                <marker date="1615300557713" expanded="true" signature="120:438" ph="{...}" />
+                <marker date="1615300557713" expanded="true" signature="192:213" ph="{...}" />
+                <marker date="1615300557713" expanded="true" signature="271:292" ph="{...}" />
+                <marker date="1615300557713" expanded="true" signature="369:436" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -87,16 +78,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/MoveCube0.json" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ActivateOnClick.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PrizeScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MovableObject.cs" />
-        <option value="$PROJECT_DIR$/Assets/MoveCube0.json" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-28" />
-    <option name="y" value="119" />
+    <option name="x" value="188" />
+    <option name="y" value="74" />
     <option name="width" value="1684" />
     <option name="height" value="965" />
   </component>
@@ -106,11 +97,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
@@ -163,11 +154,12 @@
       <updated>1615248254937</updated>
       <workItem from="1615248259441" duration="3728000" />
       <workItem from="1615252936669" duration="1411000" />
+      <workItem from="1615300465075" duration="344000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5139000" />
+    <option name="totallyTimeSpent" value="5483000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -179,9 +171,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-28" y="119" width="1684" height="965" extended-state="0" />
+    <frame x="188" y="74" width="1684" height="965" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274056" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2557856" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -228,45 +221,14 @@
     <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/UserInterface/Bootstrap.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ActivateOnClick.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        <state relative-caret-position="523">
+          <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
           <folding>
-            <marker date="1615249341930" expanded="false" signature="6:78" ph="..." />
-            <marker date="1615249341930" expanded="true" signature="124:479" ph="{...}" />
-            <marker date="1615249341930" expanded="true" signature="226:323" ph="{...}" />
-            <marker date="1615249341930" expanded="true" signature="381:402" ph="{...}" />
-            <marker date="1615249341930" expanded="true" signature="426:477" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PrizeScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-          <folding>
-            <marker date="1615250390445" expanded="false" signature="6:78" ph="..." />
-            <marker date="1615250390445" expanded="true" signature="120:375" ph="{...}" />
-            <marker date="1615250390445" expanded="true" signature="192:213" ph="{...}" />
-            <marker date="1615250390445" expanded="true" signature="271:292" ph="{...}" />
-            <marker date="1615250390445" expanded="true" signature="332:373" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovableObject.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-          <folding>
-            <marker date="1615253666581" expanded="false" signature="6:95" ph="..." />
-            <marker date="1615253666581" expanded="true" signature="139:1207" ph="{...}" />
-            <marker date="1615253666581" expanded="true" signature="238:551" ph="{...}" />
-            <marker date="1615253666581" expanded="true" signature="344:545" ph="{...}" />
-            <marker date="1615253666581" expanded="true" signature="609:630" ph="{...}" />
-            <marker date="1615253666581" expanded="true" signature="654:720" ph="{...}" />
-            <marker date="1615253666581" expanded="true" signature="750:935" ph="{...}" />
-            <marker date="1615253666581" expanded="true" signature="972:1205" ph="{...}" />
+            <marker date="1615300528718" expanded="false" signature="6:78" ph="..." />
+            <marker date="1615300528718" expanded="true" signature="124:612" ph="{...}" />
+            <marker date="1615300528718" expanded="true" signature="246:420" ph="{...}" />
+            <marker date="1615300528718" expanded="true" signature="478:499" ph="{...}" />
+            <marker date="1615300528718" expanded="true" signature="541:610" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -274,7 +236,38 @@
     <entry file="file://$PROJECT_DIR$/Assets/MoveCube0.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PrizeScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+          <folding>
+            <marker date="1615300557713" expanded="false" signature="6:78" ph="..." />
+            <marker date="1615300557713" expanded="true" signature="120:438" ph="{...}" />
+            <marker date="1615300557713" expanded="true" signature="192:213" ph="{...}" />
+            <marker date="1615300557713" expanded="true" signature="271:292" ph="{...}" />
+            <marker date="1615300557713" expanded="true" signature="369:436" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovableObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="62" column="92" selection-start-line="62" selection-start-column="92" selection-end-line="62" selection-end-column="92" />
+          <folding>
+            <marker date="1615300809436" expanded="false" signature="6:95" ph="..." />
+            <marker date="1615300809436" expanded="true" signature="139:2074" ph="{...}" />
+            <marker date="1615300809436" expanded="true" signature="258:828" ph="{...}" />
+            <marker date="1615300809436" expanded="true" signature="462:822" ph="{...}" />
+            <marker date="1615300809436" expanded="true" signature="886:907" ph="{...}" />
+            <marker date="1615300809436" expanded="true" signature="975:1098" ph="{...}" />
+            <marker date="1615300809436" expanded="true" signature="1159:1535" ph="{...}" />
+            <marker date="1615300809436" expanded="true" signature="1621:2072" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
