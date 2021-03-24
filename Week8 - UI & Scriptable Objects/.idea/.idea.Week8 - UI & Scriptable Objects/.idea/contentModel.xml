@@ -4,6 +4,9 @@
     <e p="$PROJECT_DIR$" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Resources" t="Include">
+          <e p="LoadFile.txt" t="Include" />
+        </e>
         <e p="Scripts" t="Include">
           <e p="GameManager.cs" t="Include" />
           <e p="ScriptableObjects" t="Include">

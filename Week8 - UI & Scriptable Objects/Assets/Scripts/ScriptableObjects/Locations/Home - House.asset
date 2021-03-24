@@ -15,6 +15,6 @@ MonoBehaviour:
   locationName: My House
   description: I like my house.
   locationNorth: {fileID: 11400000, guid: 3472ffb2829b3443ba400fc87346335f, type: 2}
-  locationSouth: {fileID: 0}
-  locationEast: {fileID: 0}
-  locationWest: {fileID: 0}
+  locationSouth: {fileID: 11400000, guid: 459d53a9900da4278b1f1548022d5fd2, type: 2}
+  locationEast: {fileID: 11400000, guid: 01dd4350b1e2f4343b2b01ee71e259b0, type: 2}
+  locationWest: {fileID: 11400000, guid: ff8c50722bc0447f58c17b11a6eb89c6, type: 2}
