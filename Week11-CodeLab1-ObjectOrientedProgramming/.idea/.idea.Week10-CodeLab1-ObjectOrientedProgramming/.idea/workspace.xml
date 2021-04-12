@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06ab4f90-ed0f-4f4c-8b89-9e5085f5a465" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Week3-CodeLab1-SavingData/Assets/All_scores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Week3-CodeLab1-SavingData/Assets/All_scores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week3-CodeLab1-SavingData/Assets/CodeLab1-S2020-highscore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Week3-CodeLab1-SavingData/Assets/CodeLab1-S2020-highscore.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4-CodeLab1-HighScoreList/Assets/high_score.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4-CodeLab1-HighScoreList/Assets/high_score.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week5-CodeLab1-AsciiLevelLoader/Assets/Scripts/AsciiLevelLoader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Week5-CodeLab1-AsciiLevelLoader/Assets/Scripts/AsciiLevelLoader.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week6-CodeLab1-IntroToJSON/Assets/MoveCube1.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Week6-CodeLab1-IntroToJSON/Assets/MoveCube1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week6-CodeLab1-IntroToJSON/Assets/MoveCube2.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Week6-CodeLab1-IntroToJSON/Assets/MoveCube2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week6-CodeLab1-IntroToJSON/Assets/MoveCube3.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Week6-CodeLab1-IntroToJSON/Assets/MoveCube3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week6-CodeLab1-IntroToJSON/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Week6-CodeLab1-IntroToJSON/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week6-CodeLab1-IntroToJSON/Assets/Scripts/MovableObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Week6-CodeLab1-IntroToJSON/Assets/Scripts/MovableObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week6-CodeLab1-IntroToJSON/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Week6-CodeLab1-IntroToJSON/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week6-CodeLab1-IntroToJSON/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Week6-CodeLab1-IntroToJSON/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week7-CodeLab1-SimpleObjectsAndClasses/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Week7-CodeLab1-SimpleObjectsAndClasses/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week8-CodeLab1-DataStructures/.idea/.idea.Week8-CodeLab1-DataStructures/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week8-CodeLab1-DataStructures/.idea/.idea.Week8-CodeLab1-DataStructures/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week8-CodeLab1-DataStructures/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Week8-CodeLab1-DataStructures/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week8-CodeLab1-DataStructures/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Week8-CodeLab1-DataStructures/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week8-CodeLab1-DataStructures/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Week8-CodeLab1-DataStructures/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUStaff.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-103">
+              <folding>
+                <marker date="1587411716772" expanded="false" signature="6:78" ph="..." />
+                <marker date="1587411716772" expanded="true" signature="115:684" ph="{...}" />
+                <marker date="1587411716772" expanded="true" signature="470:546" ph="{...}" />
+                <marker date="1587411716772" expanded="true" signature="587:682" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUFaculty.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1587400751754" expanded="false" signature="6:78" ph="..." />
+                <marker date="1587400751754" expanded="true" signature="117:567" ph="{...}" />
+                <marker date="1587400751754" expanded="true" signature="479:565" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUGuest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1587400477791" expanded="false" signature="6:78" ph="..." />
+                <marker date="1587400477791" expanded="true" signature="156:567" ph="{...}" />
+                <marker date="1587400477791" expanded="true" signature="304:344" ph="{...}" />
+                <marker date="1587400477791" expanded="true" signature="472:565" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUStudent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-152">
+              <folding>
+                <marker date="1587400581344" expanded="false" signature="6:78" ph="..." />
+                <marker date="1587400581344" expanded="true" signature="115:644" ph="{...}" />
+                <marker date="1587400581344" expanded="true" signature="388:454" ph="{...}" />
+                <marker date="1587400581344" expanded="true" signature="554:642" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/ShipControl.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-862">
+              <folding>
+                <marker date="1587401658525" expanded="false" signature="6:78" ph="..." />
+                <marker date="1587401658525" expanded="true" signature="120:2031" ph="{...}" />
+                <marker date="1587401658525" expanded="true" signature="395:496" ph="{...}" />
+                <marker date="1587401658525" expanded="true" signature="554:1322" ph="{...}" />
+                <marker date="1587401658525" expanded="true" signature="594:669" ph="{...}" />
+                <marker date="1587401658525" expanded="true" signature="706:783" ph="{...}" />
+                <marker date="1587401658525" expanded="true" signature="849:961" ph="{...}" />
+                <marker date="1587401658525" expanded="true" signature="1028:1145" ph="{...}" />
+                <marker date="1587401658525" expanded="true" signature="1206:1316" ph="{...}" />
+                <marker date="1587401658525" expanded="true" signature="1382:1497" ph="{...}" />
+                <marker date="1587401658525" expanded="true" signature="1542:2029" ph="{...}" />
+                <marker date="1587401658525" expanded="true" signature="1596:1714" ph="{...}" />
+                <marker date="1587401658525" expanded="true" signature="1894:2023" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/EnemyScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1587394377895" expanded="false" signature="6:78" ph="..." />
+                <marker date="1587394377895" expanded="true" signature="120:419" ph="{...}" />
+                <marker date="1587394377895" expanded="true" signature="245:323" ph="{...}" />
+                <marker date="1587394377895" expanded="true" signature="340:417" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Shield/BaseShield.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-22">
+              <folding>
+                <marker date="1587400053213" expanded="false" signature="6:78" ph="..." />
+                <marker date="1587400053213" expanded="true" signature="119:838" ph="{...}" />
+                <marker date="1587400053213" expanded="true" signature="235:836" ph="{...}" />
+                <marker date="1587400053213" expanded="true" signature="272:467" ph="{...}" />
+                <marker date="1587400053213" expanded="true" signature="495:740" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Shield/CursedShield.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1587400079115" expanded="false" signature="6:78" ph="..." />
+                <marker date="1587400079115" expanded="true" signature="119:268" ph="{...}" />
+                <marker date="1587400079115" expanded="true" signature="235:266" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Shield/HalfDamageShield.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1587400093815" expanded="false" signature="6:78" ph="..." />
+                <marker date="1587400093815" expanded="true" signature="122:277" ph="{...}" />
+                <marker date="1587400093815" expanded="true" signature="237:275" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUEmployee.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-88">
+              <folding>
+                <marker date="1587411498766" expanded="false" signature="6:78" ph="..." />
+                <marker date="1587411498766" expanded="true" signature="116:674" ph="{...}" />
+                <marker date="1587411498766" expanded="true" signature="413:489" ph="{...}" />
+                <marker date="1587411498766" expanded="true" signature="530:672" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUStudent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ship/EnemyScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUPerson.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUStaff.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ship/ShipControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NYU/Directory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Shield/BaseShield.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Shield/CursedShield.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Shield/HalfDamageShield.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUEmployee.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUGuest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUFaculty.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="26" />
+    <option name="width" value="1580" />
+    <option name="height" value="842" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Spring 2019/CodeLab1" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06ab4f90-ed0f-4f4c-8b89-9e5085f5a465" name="Default Changelist" comment="" />
+      <created>1618232402754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618232402754</updated>
+      <workItem from="1618232406801" duration="247000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="247000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="26" width="1580" height="842" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20351106" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NYU/Directory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <folding>
+            <marker date="1587401158071" expanded="false" signature="6:100" ph="..." />
+            <marker date="1587401158071" expanded="true" signature="140:2653" ph="{...}" />
+            <marker date="1587401158071" expanded="true" signature="489:2079" ph="{...}" />
+            <marker date="1587401158071" expanded="true" signature="2137:2313" ph="{...}" />
+            <marker date="1587401158071" expanded="true" signature="2187:2307" ph="{...}" />
+            <marker date="1587401158071" expanded="true" signature="2338:2651" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUPerson.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-206">
+          <folding>
+            <marker date="1587400390201" expanded="false" signature="6:78" ph="..." />
+            <marker date="1587400390201" expanded="true" signature="156:755" ph="{...}" />
+            <marker date="1587400390201" expanded="true" signature="358:485" ph="{...}" />
+            <marker date="1587400390201" expanded="true" signature="582:753" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUEmployee.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <folding>
+            <marker date="1587411498766" expanded="false" signature="6:78" ph="..." />
+            <marker date="1587411498766" expanded="true" signature="116:674" ph="{...}" />
+            <marker date="1587411498766" expanded="true" signature="413:489" ph="{...}" />
+            <marker date="1587411498766" expanded="true" signature="530:672" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUStaff.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-103">
+          <folding>
+            <marker date="1587411716772" expanded="false" signature="6:78" ph="..." />
+            <marker date="1587411716772" expanded="true" signature="115:684" ph="{...}" />
+            <marker date="1587411716772" expanded="true" signature="470:546" ph="{...}" />
+            <marker date="1587411716772" expanded="true" signature="587:682" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUFaculty.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1587400751754" expanded="false" signature="6:78" ph="..." />
+            <marker date="1587400751754" expanded="true" signature="117:567" ph="{...}" />
+            <marker date="1587400751754" expanded="true" signature="479:565" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUGuest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1587400477791" expanded="false" signature="6:78" ph="..." />
+            <marker date="1587400477791" expanded="true" signature="156:567" ph="{...}" />
+            <marker date="1587400477791" expanded="true" signature="304:344" ph="{...}" />
+            <marker date="1587400477791" expanded="true" signature="472:565" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUStudent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <folding>
+            <marker date="1587400581344" expanded="false" signature="6:78" ph="..." />
+            <marker date="1587400581344" expanded="true" signature="115:644" ph="{...}" />
+            <marker date="1587400581344" expanded="true" signature="388:454" ph="{...}" />
+            <marker date="1587400581344" expanded="true" signature="554:642" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/EnemyScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1587394377895" expanded="false" signature="6:78" ph="..." />
+            <marker date="1587394377895" expanded="true" signature="120:419" ph="{...}" />
+            <marker date="1587394377895" expanded="true" signature="245:323" ph="{...}" />
+            <marker date="1587394377895" expanded="true" signature="340:417" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Shield/CursedShield.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1587400079115" expanded="false" signature="6:78" ph="..." />
+            <marker date="1587400079115" expanded="true" signature="119:268" ph="{...}" />
+            <marker date="1587400079115" expanded="true" signature="235:266" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Shield/HalfDamageShield.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1587400093815" expanded="false" signature="6:78" ph="..." />
+            <marker date="1587400093815" expanded="true" signature="122:277" ph="{...}" />
+            <marker date="1587400093815" expanded="true" signature="237:275" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Shield/BaseShield.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <folding>
+            <marker date="1587400053213" expanded="false" signature="6:78" ph="..." />
+            <marker date="1587400053213" expanded="true" signature="119:838" ph="{...}" />
+            <marker date="1587400053213" expanded="true" signature="235:836" ph="{...}" />
+            <marker date="1587400053213" expanded="true" signature="272:467" ph="{...}" />
+            <marker date="1587400053213" expanded="true" signature="495:740" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/ShipControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-862">
+          <folding>
+            <marker date="1587401658525" expanded="false" signature="6:78" ph="..." />
+            <marker date="1587401658525" expanded="true" signature="120:2031" ph="{...}" />
+            <marker date="1587401658525" expanded="true" signature="395:496" ph="{...}" />
+            <marker date="1587401658525" expanded="true" signature="554:1322" ph="{...}" />
+            <marker date="1587401658525" expanded="true" signature="594:669" ph="{...}" />
+            <marker date="1587401658525" expanded="true" signature="706:783" ph="{...}" />
+            <marker date="1587401658525" expanded="true" signature="849:961" ph="{...}" />
+            <marker date="1587401658525" expanded="true" signature="1028:1145" ph="{...}" />
+            <marker date="1587401658525" expanded="true" signature="1206:1316" ph="{...}" />
+            <marker date="1587401658525" expanded="true" signature="1382:1497" ph="{...}" />
+            <marker date="1587401658525" expanded="true" signature="1542:2029" ph="{...}" />
+            <marker date="1587401658525" expanded="true" signature="1596:1714" ph="{...}" />
+            <marker date="1587401658525" expanded="true" signature="1894:2023" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
