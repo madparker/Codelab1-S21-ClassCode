@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68ad0e8a-394e-4a8b-9ab4-95d662c1c7c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ActivateOnClick.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ActivateOnClick.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MovableObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MovableObject.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PrizeScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PrizeScript.cs" afterDir="false" />
-    </list>
+    <list default="true" id="68ad0e8a-394e-4a8b-9ab4-95d662c1c7c5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,12 +150,12 @@
       <updated>1615248254937</updated>
       <workItem from="1615248259441" duration="3728000" />
       <workItem from="1615252936669" duration="1411000" />
-      <workItem from="1615300465075" duration="344000" />
+      <workItem from="1615300465075" duration="374000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5483000" />
+    <option name="totallyTimeSpent" value="5513000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -172,7 +168,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="188" y="74" width="1684" height="965" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2557856" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

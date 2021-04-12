@@ -161,12 +161,16 @@ public class SimpleConnectionGame : MonoBehaviour
     // 2 for red
     public int FourInARow()
     {
+        
         for (var x = 0; x < width; x++)
         {
             for (var y = 0; y < height; y++)
             {
                 if (y <= height - 4)
-                    if (grid[x,y] != 0 && grid[x, y] == grid[x, y + 1] && grid[x, y] == grid[x, y + 2] && grid[x, y] == grid[x, y + 3])
+                    if (grid[x,y] != 0 &&
+                        grid[x, y] == grid[x, y + 1] &&
+                        grid[x, y] == grid[x, y + 2] &&
+                        grid[x, y] == grid[x, y + 3])
                         return grid[x, y];
              
                 if (x <= width - 4)               

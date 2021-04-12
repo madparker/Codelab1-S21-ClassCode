@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e6be12adfb764e348cebb89a5c90603, type: 3}
   m_Name: My Street - Dead End
   m_EditorClassIdentifier: 
-  locationName: New Place
-  description: Default Description
+  locationName: Dead End
+  description: Can only go back
   locationNorth: {fileID: 0}
   locationSouth: {fileID: 0}
-  locationEast: {fileID: 0}
+  locationEast: {fileID: 11400000, guid: 459d53a9900da4278b1f1548022d5fd2, type: 2}
   locationWest: {fileID: 0}

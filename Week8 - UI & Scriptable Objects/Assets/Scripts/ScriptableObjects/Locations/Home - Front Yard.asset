@@ -18,4 +18,4 @@ MonoBehaviour:
   locationNorth: {fileID: 11400000, guid: 815a98bb9447b4554a42473d2137273b, type: 2}
   locationSouth: {fileID: 0}
   locationEast: {fileID: 0}
-  locationWest: {fileID: 0}
+  locationWest: {fileID: 11400000, guid: 8e282d75ace814b12ae430105e7190cc, type: 2}

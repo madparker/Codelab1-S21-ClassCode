@@ -10,12 +10,12 @@ public class ListExample : MonoBehaviour
     public TextAsset textFileWithNames;
     public Text display;
 
-    private List<string> names;
+    private List<string> namesList;
 
     private void Start()
     {
         // Instantiate the list
-        names = new List<string>();
+        namesList = new List<string>();
         
         // The below code reads the text file and splits it into lines.
         var namesFromFile = textFileWithNames.text.Split('\n');
@@ -23,34 +23,34 @@ public class ListExample : MonoBehaviour
         // This code loops though every single line in the text file
         for (var i = 0; i < namesFromFile.Length; i++)
         {
-            // Add each line to the list of names.
-            names.Add(namesFromFile[i].ToUpper());
+            // Add each line to the list of namesList.
+            namesList.Add(namesFromFile[i].ToUpper().Trim());
         }
         
         
         // Extra methods tests:
         
-        Debug.Log("Count: " + names.Count);
-        Debug.Log("Names contains \"JACK\":" + names.Contains("JACK"));
-        Debug.Log("Names contains \"LANNI\":" + names.Contains("LANNI"));
+        Debug.Log("Count: " + namesList.Count);
+        Debug.Log("Names contains \"JACK\":" + namesList.Contains("JACK"));
+        Debug.Log("Names contains \"LANNI\":" + namesList.Contains("LANNI"));
 
-        names.Insert(4520, "LANNI");
+        namesList.Insert(4520, "LANNI");
 
         var indexOfLastLanni = 0;
 
-        for (int i = 0; i < names.Count; i++)
+        for (int i = 0; i < namesList.Count; i++)
         {
-            if (names[i] == "LANNI")
+            if (namesList[i] == "LANNI")
                 indexOfLastLanni = i;
         }
        
-        Debug.Log(names[4520]);
-        names.RemoveAt(indexOfLastLanni);
-        Debug.Log(names[4520]);
+        Debug.Log(namesList[4520]);
+        namesList.RemoveAt(indexOfLastLanni);
+        Debug.Log(namesList[4520]);
 
 
-        // Debug.Log("Successfully removed \"LANNI\": " + names.Remove("LANNI"));
-        // Debug.Log("Names contains\"LANNI\": " + names.Contains("LANNI"));
+        // Debug.Log("Successfully removed \"LANNI\": " + namesList.Remove("LANNI"));
+        // Debug.Log("Names contains\"LANNI\": " + namesList.Contains("LANNI"));
     }
 
     private void Update()
@@ -65,17 +65,23 @@ public class ListExample : MonoBehaviour
         {
             // Start by setting the display to say "not in list".
             display.text = "Not in the list.";
-            
-            // Loop through the entire list
-            for (int i = 0; i < names.Count; i++)
+
+            if (namesList.Contains(input.text.ToUpper().Trim()))
             {
-                // If any of the names in the list match what in the input field,
-                // say it's in the list.
-                if (input.text.ToUpper() == names[i])
-                {
-                    display.text = "In the list!";
-                }
+                display.text = "This Name is in the list!!!";
             }
+
+
+//            // Loop through the entire list
+//            for (int i = 0; i < namesList.Count; i++)
+//            {
+//                // If any of the namesList in the list match what in the input field,
+//                // say it's in the list.
+//                if (input.text.ToUpper() == namesList[i])
+//                {
+//                    display.text = "In the list!";
+//                }
+//            }
 
         }
     }
