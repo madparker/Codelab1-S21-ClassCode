@@ -11,7 +11,7 @@ public class NYUPerson
     public string type;
 
     //this is the base constructor
-    public NYUPerson(string name, string netId, string nNumber)
+    public NYUPerson(string name, string netId)
     {
         this.name = name;
         this.netId = netId;

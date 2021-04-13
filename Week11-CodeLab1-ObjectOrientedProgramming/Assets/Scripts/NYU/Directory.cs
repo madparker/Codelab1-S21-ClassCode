@@ -17,34 +17,10 @@ public class Directory : MonoBehaviour
     {
         nyuPeopleList = new List<NYUPerson>();
 
-        //make a new NYUStudent
-        NYUStudent joanDoe = new NYUStudent("Joan Doe",
-                                           "jd123",
-                                           "N8765652",
-                                           3.2f);
-        nyuPeopleList.Add(joanDoe); //add joanDoe to the nyuPeopleList
-
-        //make a new NYUGuest
-        NYUGuest randoJones = new NYUGuest("Rando Jones"); 
-        nyuPeopleList.Add(randoJones); //add randoJones to the nyuPeopleList
-
         //make a new NYUFaculty 
-        NYUFaculty mattParker = new NYUFaculty("Matt Parker",
-                                              "mp612",
-                                              "N12345",
-                                              "NYU Game Center",
-                                               10000000f,
-                                               new string[] { "Code Lab 0", "Code Lab 1"});
+        NYUPerson mattParker = new NYUPerson("Matt Parker",
+                                              "mp612");
         nyuPeopleList.Add(mattParker); //add mattParker to the nyuPeopleList
-
-        //make a new NYUStaff
-        NYUStaff kevinSpain = new NYUStaff("Kevin Spain",
-                                          "ks234",
-                                          "N32673467",
-                                          "NYU Game Center",
-                                           237129823783.01f,
-                                           1);
-        nyuPeopleList.Add(kevinSpain); //add kevinSpain to the nyuPeopleList
 
         UpdateRecord(); //update the text display to show the the info from the first person in the list
     }

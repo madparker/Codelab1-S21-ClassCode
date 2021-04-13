@@ -34,15 +34,7 @@ public class ShipControl : MonoBehaviour
             rb2d.AddForce(Vector2.right * forceMod);
         }
 
-        if(Input.GetKeyDown(KeyCode.C)) //change to CursedShield
-        { 
-            Destroy(shield);
-            shield = gameObject.AddComponent<CursedShield>();
-        } else if (Input.GetKeyDown(KeyCode.H)) //change to HalfDamageShield
-        {  
-            Destroy(shield);
-            shield = gameObject.AddComponent<HalfDamageShield>();
-        } else if (Input.GetKeyDown(KeyCode.B)) //change to BaseShield
+        if (Input.GetKeyDown(KeyCode.B)) //change to BaseShield
         {
             Destroy(shield);
             shield = gameObject.AddComponent<BaseShield>();
