@@ -20,6 +20,10 @@ public class Directory : MonoBehaviour
         //make a new NYUFaculty 
         NYUPerson mattParker = new NYUPerson("Matt Parker",
                                               "mp612");
+        
+        NYUPerson walid = new NYUStudent("Walid", "ar123", 4);
+        
+        nyuPeopleList.Add(walid);
         nyuPeopleList.Add(mattParker); //add mattParker to the nyuPeopleList
 
         UpdateRecord(); //update the text display to show the the info from the first person in the list

@@ -8,6 +8,8 @@
           <e p="NYU" t="Include">
             <e p="Directory.cs" t="Include" />
             <e p="NYUPerson.cs" t="Include" />
+            <e p="NYUStaff.cs" t="Include" />
+            <e p="NYUStudent.cs" t="Include" />
           </e>
           <e p="Ship" t="Include">
             <e p="EnemyScript.cs" t="Include" />

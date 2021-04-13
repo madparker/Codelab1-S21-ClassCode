@@ -3,22 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8125d978-c864-4a42-93fd-108e09d23a57" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/NYU/Directory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/NYU/Directory.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NYU/NYUEmployee.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NYU/NYUEmployee.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NYU/NYUFaculty.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NYU/NYUFaculty.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NYU/NYUGuest.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NYU/NYUGuest.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/NYU/NYUPerson.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/NYU/NYUPerson.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NYU/NYUStaff.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NYU/NYUStaff.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NYU/NYUStudent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NYU/NYUStudent.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Ship/Shield/CursedShield.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Ship/Shield/CursedShield.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Ship/Shield/HalfDamageShield.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Ship/Shield/HalfDamageShield.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Ship/ShipControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Ship/ShipControl.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,30 +16,58 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/NYU/Directory.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="424">
+              <caret line="23" column="40" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="40" />
               <folding>
-                <marker date="1618272883937" expanded="false" signature="6:100" ph="..." />
-                <marker date="1618272883937" expanded="true" signature="140:1455" ph="{...}" />
-                <marker date="1618272883937" expanded="true" signature="489:881" ph="{...}" />
-                <marker date="1618272883937" expanded="true" signature="939:1115" ph="{...}" />
-                <marker date="1618272883937" expanded="true" signature="989:1109" ph="{...}" />
-                <marker date="1618272883937" expanded="true" signature="1140:1453" ph="{...}" />
+                <marker date="1618273679914" expanded="false" signature="6:100" ph="..." />
+                <marker date="1618273679914" expanded="true" signature="140:1570" ph="{...}" />
+                <marker date="1618273679914" expanded="true" signature="489:996" ph="{...}" />
+                <marker date="1618273679914" expanded="true" signature="1054:1230" ph="{...}" />
+                <marker date="1618273679914" expanded="true" signature="1104:1224" ph="{...}" />
+                <marker date="1618273679914" expanded="true" signature="1255:1568" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUStaff.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+              <folding>
+                <marker date="1618274152790" expanded="false" signature="6:78" ph="..." />
+                <marker date="1618274152790" expanded="true" signature="113:150" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUPerson.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+            <state relative-caret-position="42">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="22" />
               <folding>
-                <marker date="1618272948926" expanded="false" signature="6:78" ph="..." />
-                <marker date="1618272948926" expanded="true" signature="156:739" ph="{...}" />
-                <marker date="1618272948926" expanded="true" signature="342:469" ph="{...}" />
-                <marker date="1618272948926" expanded="true" signature="566:737" ph="{...}" />
+                <marker date="1618273414047" expanded="false" signature="6:78" ph="..." />
+                <marker date="1618273414047" expanded="true" signature="156:648" ph="{...}" />
+                <marker date="1618273414047" expanded="true" signature="315:410" ph="{...}" />
+                <marker date="1618273414047" expanded="true" signature="507:646" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUStudent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="23" />
+              <folding>
+                <marker date="1618273947323" expanded="false" signature="6:78" ph="..." />
+                <marker date="1618273947323" expanded="true" signature="115:419" ph="{...}" />
+                <marker date="1618273947323" expanded="true" signature="236:307" ph="{...}" />
+                <marker date="1618273947323" expanded="true" signature="348:417" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -90,22 +103,26 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUPerson.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ship/ShipControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUStudent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NYU/Directory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUStaff.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/Ship/ShipControl.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/NYU/Directory.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NYU/NYUPerson.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NYU/Directory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NYU/NYUStudent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NYU/NYUStaff.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="246" />
-    <option name="y" value="131" />
-    <option name="width" value="1580" />
-    <option name="height" value="842" />
+    <option name="x" value="93" />
+    <option name="y" value="130" />
+    <option name="width" value="1728" />
+    <option name="height" value="855" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -169,12 +186,12 @@
       <option name="presentableId" value="Default" />
       <updated>1618272730716</updated>
       <workItem from="1618272732160" duration="49000" />
-      <workItem from="1618272831275" duration="118000" />
+      <workItem from="1618272831275" duration="1304000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="167000" />
+    <option name="totallyTimeSpent" value="1353000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -186,10 +203,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="246" y="131" width="1580" height="842" extended-state="0" />
+    <frame x="93" y="130" width="1728" height="855" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25292587" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2307236" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -253,30 +270,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NYU/Directory.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUPerson.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="42">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="22" />
           <folding>
-            <marker date="1618272883937" expanded="false" signature="6:100" ph="..." />
-            <marker date="1618272883937" expanded="true" signature="140:1455" ph="{...}" />
-            <marker date="1618272883937" expanded="true" signature="489:881" ph="{...}" />
-            <marker date="1618272883937" expanded="true" signature="939:1115" ph="{...}" />
-            <marker date="1618272883937" expanded="true" signature="989:1109" ph="{...}" />
-            <marker date="1618272883937" expanded="true" signature="1140:1453" ph="{...}" />
+            <marker date="1618273414047" expanded="false" signature="6:78" ph="..." />
+            <marker date="1618273414047" expanded="true" signature="156:648" ph="{...}" />
+            <marker date="1618273414047" expanded="true" signature="315:410" ph="{...}" />
+            <marker date="1618273414047" expanded="true" signature="507:646" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUPerson.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUStudent.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+        <state relative-caret-position="14">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="23" />
           <folding>
-            <marker date="1618272948926" expanded="false" signature="6:78" ph="..." />
-            <marker date="1618272948926" expanded="true" signature="156:739" ph="{...}" />
-            <marker date="1618272948926" expanded="true" signature="342:469" ph="{...}" />
-            <marker date="1618272948926" expanded="true" signature="566:737" ph="{...}" />
+            <marker date="1618273947323" expanded="false" signature="6:78" ph="..." />
+            <marker date="1618273947323" expanded="true" signature="115:419" ph="{...}" />
+            <marker date="1618273947323" expanded="true" signature="236:307" ph="{...}" />
+            <marker date="1618273947323" expanded="true" signature="348:417" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NYU/Directory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="40" />
+          <folding>
+            <marker date="1618273679914" expanded="false" signature="6:100" ph="..." />
+            <marker date="1618273679914" expanded="true" signature="140:1570" ph="{...}" />
+            <marker date="1618273679914" expanded="true" signature="489:996" ph="{...}" />
+            <marker date="1618273679914" expanded="true" signature="1054:1230" ph="{...}" />
+            <marker date="1618273679914" expanded="true" signature="1104:1224" ph="{...}" />
+            <marker date="1618273679914" expanded="true" signature="1255:1568" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUStaff.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <marker date="1618274152790" expanded="false" signature="6:78" ph="..." />
+            <marker date="1618274152790" expanded="true" signature="113:150" ph="{...}" />
           </folding>
         </state>
       </provider>
