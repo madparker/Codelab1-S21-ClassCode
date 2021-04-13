@@ -18,14 +18,19 @@ public class Directory : MonoBehaviour
         nyuPeopleList = new List<NYUPerson>();
 
         //make a new NYUFaculty 
-        NYUPerson mattParker = new NYUPerson("Matt Parker",
-                                              "mp612");
+        NYUPerson mattParker = new NYUFaculty("Matt Parker",
+                                              "mp612", 10, 
+                                          new string[]{"Code Lab 0", "Code Lab 1"});
+        NYUStaff toniPizza = new NYUStaff("Toni Pizza",
+            "tp123", 10000000);
         
         NYUPerson walid = new NYUStudent("Walid", "ar123", 4);
         
+        
         nyuPeopleList.Add(walid);
+        nyuPeopleList.Add(toniPizza);
         nyuPeopleList.Add(mattParker); //add mattParker to the nyuPeopleList
-
+        
         UpdateRecord(); //update the text display to show the the info from the first person in the list
     }
 
