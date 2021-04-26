@@ -16,6 +16,7 @@
             <e p="EnemyScript.cs" t="Include" />
             <e p="Shield" t="Include">
               <e p="BaseShield.cs" t="Include" />
+              <e p="HalfDamangeShield.cs" t="Include" />
             </e>
             <e p="ShipControl.cs" t="Include" />
           </e>

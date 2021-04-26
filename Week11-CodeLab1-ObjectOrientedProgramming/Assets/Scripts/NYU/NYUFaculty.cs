@@ -11,6 +11,7 @@ public class NYUFaculty : NYUStaff
         : base(name, netId, salary)
     {
         this.classes = classes;
+        type = "Faculty/Teacher";
     }
 
     public override string showRecord()
