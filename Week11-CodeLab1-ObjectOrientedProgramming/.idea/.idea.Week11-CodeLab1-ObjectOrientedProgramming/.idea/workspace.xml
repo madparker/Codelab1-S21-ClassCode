@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8125d978-c864-4a42-93fd-108e09d23a57" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Week11-CodeLab1-ObjectOrientedProgramming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Week11-CodeLab1-ObjectOrientedProgramming/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NYU/NYUFaculty.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/NYU/NYUFaculty.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ShipExample.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ShipExample.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Ship/ShipControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Ship/ShipControl.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,34 +16,79 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/ShipControl.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="54" column="43" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="43" />
+            <state relative-caret-position="441">
+              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
               <folding>
-                <marker date="1618272862039" expanded="false" signature="6:78" ph="..." />
-                <marker date="1618272862039" expanded="true" signature="120:1673" ph="{...}" />
-                <marker date="1618272862039" expanded="true" signature="395:496" ph="{...}" />
-                <marker date="1618272862039" expanded="true" signature="554:964" ph="{...}" />
-                <marker date="1618272862039" expanded="true" signature="594:669" ph="{...}" />
-                <marker date="1618272862039" expanded="true" signature="706:783" ph="{...}" />
-                <marker date="1618272862039" expanded="true" signature="848:958" ph="{...}" />
-                <marker date="1618272862039" expanded="true" signature="1024:1139" ph="{...}" />
-                <marker date="1618272862039" expanded="true" signature="1184:1671" ph="{...}" />
-                <marker date="1618272862039" expanded="true" signature="1238:1356" ph="{...}" />
-                <marker date="1618272862039" expanded="true" signature="1536:1665" ph="{...}" />
+                <marker date="1619481984807" expanded="false" signature="6:78" ph="..." />
+                <marker date="1619481984807" expanded="true" signature="120:2149" ph="{...}" />
+                <marker date="1619481984807" expanded="true" signature="418:519" ph="{...}" />
+                <marker date="1619481984807" expanded="true" signature="577:1440" ph="{...}" />
+                <marker date="1619481984807" expanded="true" signature="674:723" ph="{...}" />
+                <marker date="1619481984807" expanded="true" signature="758:833" ph="{...}" />
+                <marker date="1619481984807" expanded="true" signature="870:947" ph="{...}" />
+                <marker date="1619481984807" expanded="true" signature="1012:1121" ph="{...}" />
+                <marker date="1619481984807" expanded="true" signature="1163:1276" ph="{...}" />
+                <marker date="1619481984807" expanded="true" signature="1318:1434" ph="{...}" />
+                <marker date="1619481984807" expanded="true" signature="1500:1615" ph="{...}" />
+                <marker date="1619481984807" expanded="true" signature="1660:2147" ph="{...}" />
+                <marker date="1619481984807" expanded="true" signature="1714:1832" ph="{...}" />
+                <marker date="1619481984807" expanded="true" signature="2012:2141" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Shield/HalfDamangeShield.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Attacks/BaseAttack.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+              <folding>
+                <marker date="1619482609087" expanded="false" signature="6:78" ph="..." />
+                <marker date="1619482609087" expanded="true" signature="119:517" ph="{...}" />
+                <marker date="1619482609087" expanded="true" signature="195:515" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Shield/AbsorbShield.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="174">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+              <folding>
+                <marker date="1619480306317" expanded="false" signature="6:78" ph="..." />
+                <marker date="1619480306317" expanded="true" signature="118:211" ph="{...}" />
+                <marker date="1619480306317" expanded="true" signature="173:209" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Shield/HalfDamangeShield.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding>
                 <marker date="1619478222163" expanded="false" signature="6:78" ph="..." />
                 <marker date="1619478222163" expanded="true" signature="123:220" ph="{...}" />
                 <marker date="1619478222163" expanded="true" signature="178:218" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Shield/TeleportShield.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+              <folding>
+                <marker date="1619479759995" expanded="false" signature="6:78" ph="..." />
+                <marker date="1619479759995" expanded="true" signature="120:417" ph="{...}" />
+                <marker date="1619479759995" expanded="true" signature="235:415" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -72,31 +117,37 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ship/EnemyScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Shield/AbsorbShield.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUPerson.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ship/ShipControl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUStudent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Attacks/BaseAttack.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NYU/Directory.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUStaff.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUFaculty.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Shield/HalfDamangeShield.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Shield/TeleportShield.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Shield/BaseShield.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Ship/ShipControl.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NYU/NYUPerson.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NYU/NYUStudent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NYU/NYUStaff.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NYU/Directory.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NYU/NYUFaculty.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Ship/Shield/HalfDamangeShield.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ship/Shield/TeleportShield.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ship/Shield/AbsorbShield.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ship/ShipControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ship/Attacks/BaseAttack.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="80" />
-    <option name="y" value="146" />
+    <option name="x" value="29" />
+    <option name="y" value="138" />
     <option name="width" value="1397" />
     <option name="height" value="825" />
   </component>
@@ -163,12 +214,12 @@
       <updated>1618272730716</updated>
       <workItem from="1618272732160" duration="49000" />
       <workItem from="1618272831275" duration="3285000" />
-      <workItem from="1619474629677" duration="2423000" />
+      <workItem from="1619474629677" duration="5029000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5757000" />
+    <option name="totallyTimeSpent" value="8363000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -180,7 +231,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="80" y="146" width="1397" height="825" extended-state="0" />
+    <frame x="29" y="138" width="1397" height="825" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23690037" />
@@ -307,26 +358,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/ShipControl.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="54" column="43" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="43" />
-          <folding>
-            <marker date="1618272862039" expanded="false" signature="6:78" ph="..." />
-            <marker date="1618272862039" expanded="true" signature="120:1673" ph="{...}" />
-            <marker date="1618272862039" expanded="true" signature="395:496" ph="{...}" />
-            <marker date="1618272862039" expanded="true" signature="554:964" ph="{...}" />
-            <marker date="1618272862039" expanded="true" signature="594:669" ph="{...}" />
-            <marker date="1618272862039" expanded="true" signature="706:783" ph="{...}" />
-            <marker date="1618272862039" expanded="true" signature="848:958" ph="{...}" />
-            <marker date="1618272862039" expanded="true" signature="1024:1139" ph="{...}" />
-            <marker date="1618272862039" expanded="true" signature="1184:1671" ph="{...}" />
-            <marker date="1618272862039" expanded="true" signature="1238:1356" ph="{...}" />
-            <marker date="1618272862039" expanded="true" signature="1536:1665" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Shield/BaseShield.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
@@ -343,12 +374,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Shield/HalfDamangeShield.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="203">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding>
             <marker date="1619478222163" expanded="false" signature="6:78" ph="..." />
             <marker date="1619478222163" expanded="true" signature="123:220" ph="{...}" />
             <marker date="1619478222163" expanded="true" signature="178:218" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Shield/TeleportShield.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <folding>
+            <marker date="1619479759995" expanded="false" signature="6:78" ph="..." />
+            <marker date="1619479759995" expanded="true" signature="120:417" ph="{...}" />
+            <marker date="1619479759995" expanded="true" signature="235:415" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Shield/AbsorbShield.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <marker date="1619480306317" expanded="false" signature="6:78" ph="..." />
+            <marker date="1619480306317" expanded="true" signature="118:211" ph="{...}" />
+            <marker date="1619480306317" expanded="true" signature="173:209" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/ShipControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+          <folding>
+            <marker date="1619481984807" expanded="false" signature="6:78" ph="..." />
+            <marker date="1619481984807" expanded="true" signature="120:2149" ph="{...}" />
+            <marker date="1619481984807" expanded="true" signature="418:519" ph="{...}" />
+            <marker date="1619481984807" expanded="true" signature="577:1440" ph="{...}" />
+            <marker date="1619481984807" expanded="true" signature="674:723" ph="{...}" />
+            <marker date="1619481984807" expanded="true" signature="758:833" ph="{...}" />
+            <marker date="1619481984807" expanded="true" signature="870:947" ph="{...}" />
+            <marker date="1619481984807" expanded="true" signature="1012:1121" ph="{...}" />
+            <marker date="1619481984807" expanded="true" signature="1163:1276" ph="{...}" />
+            <marker date="1619481984807" expanded="true" signature="1318:1434" ph="{...}" />
+            <marker date="1619481984807" expanded="true" signature="1500:1615" ph="{...}" />
+            <marker date="1619481984807" expanded="true" signature="1660:2147" ph="{...}" />
+            <marker date="1619481984807" expanded="true" signature="1714:1832" ph="{...}" />
+            <marker date="1619481984807" expanded="true" signature="2012:2141" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Attacks/BaseAttack.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+          <folding>
+            <marker date="1619482609087" expanded="false" signature="6:78" ph="..." />
+            <marker date="1619482609087" expanded="true" signature="119:517" ph="{...}" />
+            <marker date="1619482609087" expanded="true" signature="195:515" ph="{...}" />
           </folding>
         </state>
       </provider>

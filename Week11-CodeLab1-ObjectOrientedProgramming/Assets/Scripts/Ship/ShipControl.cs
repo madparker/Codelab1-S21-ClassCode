@@ -14,6 +14,7 @@ public class ShipControl : MonoBehaviour
     public float health = 100;
     public TextMesh healthText;
 
+    BaseAttack attack;
     BaseShield shield;
 
     // Start is called before the first frame update
@@ -26,6 +27,13 @@ public class ShipControl : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        attack = GetComponent<BaseAttack>();
+
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            attack.Attack();
+        }
+
         if(Input.GetKey(leftKey)){ //move left
             rb2d.AddForce(Vector2.left * forceMod);
         }
@@ -38,7 +46,18 @@ public class ShipControl : MonoBehaviour
         {
             Destroy(shield);
             shield = gameObject.AddComponent<BaseShield>();
+        }
 
+        if (Input.GetKeyDown(KeyCode.T))
+        {
+            Destroy(shield);
+            shield = gameObject.AddComponent<TeleportShield>();
+        }
+
+        if (Input.GetKeyDown(KeyCode.H))
+        {
+            Destroy(shield);
+            shield = gameObject.AddComponent<HalfDamangeShield>();
         }
     }
 
