@@ -15,6 +15,7 @@
           <e p="Ship" t="Include">
             <e p="Attacks" t="Include">
               <e p="BaseAttack.cs" t="Include" />
+              <e p="SpreadAttack.cs" t="Include" />
               <e p="TripleAttack.cs" t="Include" />
             </e>
             <e p="EnemyScript.cs" t="Include" />

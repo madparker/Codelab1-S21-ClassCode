@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8125d978-c864-4a42-93fd-108e09d23a57" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Week11-CodeLab1-ObjectOrientedProgramming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Week11-CodeLab1-ObjectOrientedProgramming/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ShipExample.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ShipExample.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Ship/Attacks/BaseAttack.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Ship/Attacks/BaseAttack.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Ship/Attacks/TripleAttack.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Ship/Attacks/TripleAttack.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +18,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/ShipControl.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+            <state relative-caret-position="309">
+              <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="28" />
               <folding>
                 <marker date="1619481984807" expanded="false" signature="6:78" ph="..." />
                 <marker date="1619481984807" expanded="true" signature="120:2149" ph="{...}" />
@@ -37,30 +40,44 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Attacks/BaseAttack.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="32" />
+            <state relative-caret-position="257">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
               <folding>
-                <marker date="1619484212133" expanded="false" signature="6:78" ph="..." />
-                <marker date="1619484212133" expanded="true" signature="119:584" ph="{...}" />
-                <marker date="1619484212133" expanded="true" signature="195:326" ph="{...}" />
-                <marker date="1619484212133" expanded="true" signature="383:582" ph="{...}" />
+                <marker date="1619484968248" expanded="false" signature="6:78" ph="..." />
+                <marker date="1619484968248" expanded="true" signature="119:614" ph="{...}" />
+                <marker date="1619484968248" expanded="true" signature="195:326" ph="{...}" />
+                <marker date="1619484968248" expanded="true" signature="389:612" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Attacks/TripleAttack.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state relative-caret-position="116">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
               <folding>
-                <marker date="1619484372783" expanded="false" signature="6:78" ph="..." />
-                <marker date="1619484372783" expanded="true" signature="118:363" ph="{...}" />
-                <marker date="1619484372783" expanded="true" signature="177:361" ph="{...}" />
+                <marker date="1619485128598" expanded="false" signature="6:78" ph="..." />
+                <marker date="1619485128598" expanded="true" signature="118:376" ph="{...}" />
+                <marker date="1619485128598" expanded="true" signature="183:374" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Attacks/SpreadAttack.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+              <folding>
+                <marker date="1619485206002" expanded="false" signature="6:78" ph="..." />
+                <marker date="1619485206002" expanded="true" signature="118:589" ph="{...}" />
+                <marker date="1619485206002" expanded="true" signature="183:587" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -138,6 +155,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Shield/AbsorbShield.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUPerson.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ship/ShipControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Attacks/SpreadAttack.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Attacks/TripleAttack.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Attacks/BaseAttack.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NYU/NYUStaff.cs" root0="FORCE_HIGHLIGHTING" />
@@ -158,12 +176,13 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Ship/ShipControl.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Ship/Attacks/BaseAttack.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Ship/Attacks/TripleAttack.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ship/Attacks/SpreadAttack.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="29" />
-    <option name="y" value="138" />
+    <option name="y" value="108" />
     <option name="width" value="1397" />
     <option name="height" value="825" />
   </component>
@@ -230,12 +249,12 @@
       <updated>1618272730716</updated>
       <workItem from="1618272732160" duration="49000" />
       <workItem from="1618272831275" duration="3285000" />
-      <workItem from="1619474629677" duration="6120000" />
+      <workItem from="1619474629677" duration="7361000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9454000" />
+    <option name="totallyTimeSpent" value="10695000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -247,8 +266,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="29" y="138" width="1397" height="825" extended-state="0" />
-    <editor active="true" />
+    <frame x="29" y="108" width="1397" height="825" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23690037" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -374,20 +392,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Shield/BaseShield.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="37" />
-          <folding>
-            <marker date="1587400053213" expanded="false" signature="6:78" ph="..." />
-            <marker date="1587400053213" expanded="true" signature="119:838" ph="{...}" />
-            <marker date="1587400053213" expanded="true" signature="235:836" ph="{...}" />
-            <marker date="1587400053213" expanded="true" signature="272:467" ph="{...}" />
-            <marker date="1587400053213" expanded="true" signature="495:740" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Shield/HalfDamangeShield.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -424,10 +428,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Shield/BaseShield.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="37" />
+          <folding>
+            <marker date="1587400053213" expanded="false" signature="6:78" ph="..." />
+            <marker date="1587400053213" expanded="true" signature="119:838" ph="{...}" />
+            <marker date="1587400053213" expanded="true" signature="235:836" ph="{...}" />
+            <marker date="1587400053213" expanded="true" signature="272:467" ph="{...}" />
+            <marker date="1587400053213" expanded="true" signature="495:740" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/ShipControl.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+        <state relative-caret-position="309">
+          <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="28" />
           <folding>
             <marker date="1619481984807" expanded="false" signature="6:78" ph="..." />
             <marker date="1619481984807" expanded="true" signature="120:2149" ph="{...}" />
@@ -447,27 +465,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Attacks/BaseAttack.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Attacks/TripleAttack.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="32" />
+        <state relative-caret-position="116">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
           <folding>
-            <marker date="1619484212133" expanded="false" signature="6:78" ph="..." />
-            <marker date="1619484212133" expanded="true" signature="119:584" ph="{...}" />
-            <marker date="1619484212133" expanded="true" signature="195:326" ph="{...}" />
-            <marker date="1619484212133" expanded="true" signature="383:582" ph="{...}" />
+            <marker date="1619485128598" expanded="false" signature="6:78" ph="..." />
+            <marker date="1619485128598" expanded="true" signature="118:376" ph="{...}" />
+            <marker date="1619485128598" expanded="true" signature="183:374" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Attacks/TripleAttack.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Attacks/SpreadAttack.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="377">
+          <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
           <folding>
-            <marker date="1619484372783" expanded="false" signature="6:78" ph="..." />
-            <marker date="1619484372783" expanded="true" signature="118:363" ph="{...}" />
-            <marker date="1619484372783" expanded="true" signature="177:361" ph="{...}" />
+            <marker date="1619485206002" expanded="false" signature="6:78" ph="..." />
+            <marker date="1619485206002" expanded="true" signature="118:589" ph="{...}" />
+            <marker date="1619485206002" expanded="true" signature="183:587" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ship/Attacks/BaseAttack.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <marker date="1619484968248" expanded="false" signature="6:78" ph="..." />
+            <marker date="1619484968248" expanded="true" signature="119:614" ph="{...}" />
+            <marker date="1619484968248" expanded="true" signature="195:326" ph="{...}" />
+            <marker date="1619484968248" expanded="true" signature="389:612" ph="{...}" />
           </folding>
         </state>
       </provider>
